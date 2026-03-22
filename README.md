@@ -1,7 +1,12 @@
 
 Zenodo DOI：
-10.5281/zenodo.19156921
 
+10.5281/zenodo.19156920
+
+| 类型 | DOI | 链接 |
+|------|-----|------|
+| 概念 DOI | 10.5281/zenodo.19156920 | [![DOI](https://zenodo.org/badge/1188406600.svg)](https://doi.org/10.5281/zenodo.19156920) |
+| 版本 | 10.5281/zenodo.19156921 | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19156921-blue)](https://doi.org/10.5281/zenodo.19156921) |
 
 
 

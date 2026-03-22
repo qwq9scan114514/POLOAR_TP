@@ -1,8 +1,6 @@
 
-Zenodo：
-https://zenodo.org/records/19151626
-DOI：
-10.5281/zenodo.19151625
+Zenodo DOI：
+10.5281/zenodo.19156921
 
 
 
@@ -53,7 +51,7 @@ DOI：
 ## 作者
 
 Lin    
-首次提交: 2026-03-21
+Ver TP首次提交: 2026-03-22
 
 邮箱：Lopita_Lin@proton.me
 ---
@@ -76,7 +74,7 @@ ENG:
 5. Thermal Mass of Information Erasure
 
 **Timestamp Proof**
-- Initial Submission: 2026-03-21
+- VerTP Initial Submission: 2026-03-22
 
 **Why GitHub?**
 Familiar, version control friendly.
